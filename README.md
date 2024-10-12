@@ -32,7 +32,7 @@ The target variable is a binary label: 1 (diabetic) or 0 (non-diabetic).
 The code for this project is available in a Google Colab notebook which is mentioned in file above. You can access and run it directly without needing any local setup.
 
 To run the notebook:
-1. Open the link above.
+1. Open the link mentioned in ".ipynb" file.
 2. Click `Run All` in Colab.
 3. Follow the instructions within the notebook to train and test the model.
 
