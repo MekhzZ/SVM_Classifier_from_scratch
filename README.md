@@ -3,15 +3,6 @@
 ## Overview
 This project implements a Support Vector Machine (SVM) classifier from scratch using Python to perform linear classification on a diabetes dataset. The goal is to predict whether a patient has diabetes based on certain medical features. The implementation is done in a Google Colab notebook, and the code is available for easy access and execution.
 
-## Table of Contents
-- [Project Overview](#overview)
-- [Dataset](#dataset)
-- [Google Colab Notebook](#colab-notebook)
-- [Usage](#usage)
-- [Model](#model)
-- [Results](#results)
-- [Challenges](#challenges)
-- [Future Improvements](#future-improvements)
 
 ## Dataset
 The diabetes dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset). It contains several medical diagnostic measurements and a target variable indicating the presence of diabetes in a patient.
